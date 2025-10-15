@@ -66,4 +66,4 @@ Hi there! I'm **Praneeth Kumar Reddy Pappu**. I’m a Data Analyst, and I love w
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/praneethrdy/)
+[![LinkedIn] https://www.linkedin.com/in/praneethrdy/
